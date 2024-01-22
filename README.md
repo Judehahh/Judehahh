@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working from home
 - 🌱 I’m currently learning computer architecture and zig
-- 📫 How to reach me: judehahh.github.io
+- 📫 How to reach me: [judehahh.github.io](judehahh.github.io)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Judehahh&count_private=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Judehahh&hide=&layout=compact&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
